@@ -9,7 +9,7 @@
 - 🥅 2021 Goals:
    - Mastering at C# and Unity.
    - Learning Opengl and C++ to create an engine.
-- Download my cv
+- [Download my CV](https://github.com/Solideizer/Solideizer/blob/master/MustafaCV.pdf)
 
 </br>
 
