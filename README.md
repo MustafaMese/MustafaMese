@@ -9,7 +9,7 @@
 - 🥅 2021 Goals:
    - Mastering at C# and Unity.
    - Learning Opengl and C++ to create an engine.
-- [Download my CV](https://github.com/MustafaMese/MustafaMese/blob/master/MustafaCV.pdf)
+- [Download my CV](https://github.com/MustafaMese/MustafaMese/blob/master/MustafaMeşeCV.pdf)
 
 </br>
 
