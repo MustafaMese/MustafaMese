@@ -6,7 +6,7 @@
 - 🎓 I am currently in my senior year at Istanbul University.
 - 🌱 I am hardworking and ambitious individual with a great passion for game development.
 - 👯 I've been working on Architecture Design, Artificial Intelligence, and Optimization in my on-going Unity Projects to create unique and stable gameplay.
-- 🥅 2021 Goals:
+- 🥅 2022 Goals:
    - Mastering at C# and Unity.
    - Learning Opengl and C++ to create an engine.
 - [Download my CV](https://github.com/MustafaMese/MustafaMese/blob/master/MustafaMeşeCV.pdf)
@@ -20,5 +20,5 @@
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaMese&layout=compact&theme=radical&hide=html,css" alt="My Top Langs" />
 </p>
 
-[website]: https://mustafamese.github.io/
-[linkedin]: https://www.linkedin.com/in/mustafa-me%C5%9Fe-567156151/
+[website]: http://mustafamese.com/#home
+[linkedin]: https://www.linkedin.com/in/mustafamese/
