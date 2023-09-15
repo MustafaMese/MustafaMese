@@ -3,13 +3,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src ="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">][website]
 
-- 🎓 I am currently in my senior year at Istanbul University.
 - 🌱 I am hardworking and ambitious individual with a great passion for game development.
 - 👯 I've been working on Architecture Design, Artificial Intelligence, and Optimization in my on-going Unity Projects to create unique and stable gameplay.
-- 🥅 2022 Goals:
-   - Mastering at C# and Unity.
-   - Learning Opengl and C++ to create an engine.
-- [Download my CV](https://github.com/MustafaMese/MustafaMese/blob/master/MustafaMeşeCV.pdf)
 
 </br>
 
