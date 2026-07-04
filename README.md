@@ -17,16 +17,6 @@
 - **Artificial Intelligence:** Creating smart, responsive gameplay elements through state machines, pathfinding systems, and decision-making logic.
 - **Optimization & Performance:** Profiling, memory management, garbage collection reduction, and code optimization for stable framerates on target platforms.
 
----
-
-### 🛠️ Technologies & Skills
-
-* **Languages:** `C#`, `Java`
-* **Engines/Platforms:** `Unity`, `Android Studio (Ngdroid Framework)`
-* **VCS & Productivity:** `Git`, `GitHub`
-
----
-
 ### 📈 Activity & Consistency
 
 <p align="center">
