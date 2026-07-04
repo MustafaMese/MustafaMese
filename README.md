@@ -1,19 +1,43 @@
-## Hi there, I'm Mustafa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Mustafa Meşe | Game Developer 🕹️
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img src ="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">][website]
-
-- 🌱 I am hardworking and ambitious individual with a great passion for game development.
-- 👯 I've been working on Architecture Design, Artificial Intelligence, and Optimization in my on-going Unity Projects to create unique and stable gameplay.
-
-</br>
-
-<p align="center">
- <img src = "https://github-readme-stats.vercel.app/api?username=MustafaMese&show_icons=true&count_private=true&hide=contribs,issues&theme=radical&line_height=25">
-</p>
-<p align="center">
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaMese&layout=compact&theme=radical&hide=html,css" alt="My Top Langs" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/mustafamese/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="http://mustafamese.com/#home" target="_blank">
+    <img src="https://img.shields.io/badge/Website-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
-[website]: http://mustafamese.com/#home
-[linkedin]: https://www.linkedin.com/in/mustafamese/
+---
+
+### 🧬 Core Expertise
+
+* **Architecture & Design Patterns:** Implementing clean, modular, and decoupled architectures (e.g., MVC/MVVM, ScriptableObject-based architectures, and SOLID principles) in C# and Unity.
+- **Artificial Intelligence:** Creating smart, responsive gameplay elements through state machines, pathfinding systems, and decision-making logic.
+- **Optimization & Performance:** Profiling, memory management, garbage collection reduction, and code optimization for stable framerates on target platforms.
+
+---
+
+### 🛠️ Technologies & Skills
+
+* **Languages:** `C#`, `Java`
+* **Engines/Platforms:** `Unity`, `Android Studio (Ngdroid Framework)`
+* **VCS & Productivity:** `Git`, `GitHub`
+
+---
+
+### 🏆 Achievements
+<p align="left">
+  <a href="https://github.com/MustafaMese?tab=achievements" target="_blank">
+    <img src="https://github.com/gomzyakov/github-achievements/raw/main/images/pull-shark-default.png" width="90px" alt="Pull Shark Badge" />
+  </a>
+</p>
+
+---
+
+### 📈 Activity & Consistency
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MustafaMese&theme=radical" alt="GitHub Streak Stats" />
+</p>
