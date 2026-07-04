@@ -27,15 +27,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="left">
-  <a href="https://github.com/MustafaMese?tab=achievements" target="_blank">
-    <img src="https://github.com/gomzyakov/github-achievements/raw/main/images/pull-shark-default.png" width="90px" alt="Pull Shark Badge" />
-  </a>
-</p>
-
----
-
 ### 📈 Activity & Consistency
 
 <p align="center">
