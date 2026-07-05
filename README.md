@@ -16,9 +16,3 @@
 * **Architecture & Design Patterns:** Implementing clean, modular, and decoupled architectures (e.g., MVC/MVVM, ScriptableObject-based architectures, and SOLID principles) in C# and Unity.
 - **Artificial Intelligence:** Creating smart, responsive gameplay elements through state machines, pathfinding systems, and decision-making logic.
 - **Optimization & Performance:** Profiling, memory management, garbage collection reduction, and code optimization for stable framerates on target platforms.
-
-### 📈 Activity & Consistency
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MustafaMese&theme=radical" alt="GitHub Streak Stats" />
-</p>
